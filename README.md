@@ -36,7 +36,6 @@ Exploring computer science with a love for hardware and a childhood passion for 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehrrbano&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrrbano&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -61,4 +60,4 @@ Exploring computer science with a love for hardware and a childhood passion for 
 <p align="center">
   <img src="https://img.shields.io/github/followers/shehrrbano?style=for-the-badge&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/shehrrbano?style=for-the-badge&color=yellow" alt="GitHub User's stars" />
-</p> my readame file has some errors maybe
+</p>
