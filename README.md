@@ -37,7 +37,7 @@ Exploring computer science with a love for hardware and a childhood passion for 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrrbano&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
+</p> 
 
 ## 🏆 GitHub Trophies
 
