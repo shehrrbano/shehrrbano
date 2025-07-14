@@ -51,7 +51,7 @@ Exploring computer science with a passion for hardware, problem-solving, and con
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrrbano&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrrbano&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&stroke=ffffff&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&sideNums=ffffff&sideLabels=ffffff&background=0d1117&currStreakNum=ffffff&dates=ffffff&exclude_days=Sun%2CSat&no-cache=1" alt="GitHub Streak" />
 </p>
 
 ---
