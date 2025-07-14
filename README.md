@@ -40,10 +40,25 @@ Exploring computer science with a passion for hardware, problem-solving, and con
 
 ---
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shehrrbano&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrrbano&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehrrbano&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehrrbano&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
@@ -51,8 +66,9 @@ Exploring computer science with a passion for hardware, problem-solving, and con
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehrrbano&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehrrbano&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 
