@@ -1,4 +1,4 @@
-<h1 align="center">Shehr Bano</h1>
+<h1 align="center">Shehr Bano</h1> 
 <h3 align="center">MERN Stack Developer, Blockchain & ML Enthusiast</h3>
 
 <p align="center">
