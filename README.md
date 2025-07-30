@@ -1,10 +1,10 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=200&section=header&text=Shehr%20Bano&fontSize=46&fontColor=FFFFFF&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=200&section=header&text=Shehr%20Bano&fontSize=48&fontColor=FFFFFF&animation=fadeIn" width="100%">
 
 <h3 align="center">MERN Stack Developer | Machine Learning & MLOps | Hardware-Software Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development+%7C+Blockchain+%7C+Hardware-Software+Integration;Machine+Learning+Pipelines+and+MLOps+Engineering;Exploring+FPGA%2C+Kernel+Development+%26+RISC-V+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=00FF9D&center=true&vCenter=true&width=560&lines=Full-Stack+Development;Machine+Learning+and+MLOps+Pipelines;RISC-V+and+Operating+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,30 +17,23 @@
 
 ## About Me  
 
-Computer Science student at **Namal University (2023–2027)** specializing in **software development, embedded systems, and computer architecture**.  
-- Built **MERN stack applications** and **machine learning pipelines** using PySpark, MLflow, and XGBoost.  
-- Designed a **Self-Healing Microkernel OS** and **5-stage pipelined RISC-V processor**.  
-- Strong focus on **MLOps, FPGA, Linux kernel development, and blockchain**.  
-- Active leadership in **tech community building** and global ambassadorships.  
-
----
-
-## Research & Publications  
-
-- **Air Quality Index Prediction in Gujrat: A Comparative Study Using Machine Learning Models** – Co-Author *(ICEPECC-2025)*  
-  Implemented multiple ML models with PySpark and XGBoost to enhance AQI forecasting accuracy.  
+**Computer Science Student at Namal University (2023–2027)** specializing in **Software Development, Machine Learning,** and **Computer Architecture**.  
+- Built **MERN Stack Applications** and **Machine Learning Pipelines** using **PySpark, MLflow, and XGBoost**.  
+- Developed **Advanced Computer Architecture Projects** including a **5-Stage Pipelined RISC-V Processor** and a **MIPS-Based CPU Design**.  
+- Strong focus on **MLOps, FPGA, Linux Kernel Development, and Blockchain**.  
+- Active leadership in **Tech Community Building** and **Global Ambassadorships**.  
 
 ---
 
 ## Skills  
 
 ### Programming & Frameworks  
-- **Languages:** Python, C++, JavaScript, Kotlin, C, Verilog, Assembly  
-- **Web Development:** MERN stack, Django, Express.js, React, Node.js  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **MLOps & AI:** PySpark, Pandas, XGBoost, MLFlow, FastAPI, Airflow, Docker  
-- **Hardware:** FPGA, RISC-V, Computer Architecture (MIPS, RV32I), QEMU/Spike Simulation  
-- **Tools:** Jenkins, Git, Jira, Figma, Canva  
+**Languages:** Python, C++, JavaScript, Kotlin, C, Verilog, Assembly 
+**Web Development:** MERN stack, Django
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**MLOps & AI:** PySpark, Pandas, XGBoost, MLFlow, FastAPI, Airflow, Docker  
+**Hardware:** FPGA, RISC-V, Computer Architecture (MIPS, RV32I), QEMU/Spike Simulation  
+**Tools:** Jenkins, Git, Jira, Figma, Canva  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,kotlin,react,nodejs,express,django,mysql,postgres,mongodb,docker,git,linux,verilog,airflow&perline=8" />
@@ -51,26 +44,28 @@ Computer Science student at **Namal University (2023–2027)** specializing in *
 ## Leadership & Experience  
 
 - **AI Ambassador – ScutiW AI (Jul 2025 – Present):**  
-  Represent one of the world’s leading AI-powered education platforms, promoting AI tutoring tools through global outreach, community engagement, and feedback.  
+  Representing one of the world’s leading AI-powered education platforms, driving awareness of personalized AI tutoring tools globally through community engagement, outreach, and feedback.  
 
 - **Campus Ambassador – Arbisoft (2024–2025):**  
-  Organized recruitment drives and technical workshops, enhancing university-industry collaborations.  
+  Led student recruitment initiatives, organized technical workshops, and fostered university-industry collaborations.  
 
 - **Campus Director – Millennium Fellowship (UNAI & MCN) (2024–2025):**  
-  Mentored student fellows, led social impact projects, and developed the *EmpowerHer* mobile app.  
+  Mentored fellows, coordinated campus-wide social impact projects, and developed the *EmpowerHer* mobile app supporting women.  
 
 - **Tech Community Builder:**  
-  Organized workshops and events at Namal University, fostering active student participation in computing societies.  
+  Organized workshops and events at Namal University through computing societies, boosting student engagement and skills.  
 
 ---
 
 ## Awards & Certifications  
 
-- **IEEE Hosting Competition Winner (2025)** – First place, PKR 5,000 prize.  
-- **DATAFEST 24 International Symposium – Namal University (2024):** Hosted international event.  
-- **Business Idea Competition (2023):** Third place among inter-university teams.  
-- **HPC Spring School – Namal University (2024):** Intensive program on supercomputing.  
-- **Machine Learning Specialization – DeepLearning.AI (Andrew Ng)**  
+- **IEEE Hosting Competition Winner (2025)** – First place  
+- **DATAFEST 24 International Symposium – Namal University (2024)** — Hosted international event.
+- **HPC Spring School – Namal University (2024)** — Intensive program on supercomputing.  
+- **COMPPEC 2024 — NUST College of E&ME** — Presented **Medpal** application (May 2024)
+- **Participated in Pakistan Universities Debating Championship** — HEC Regional Center, Lahore (Feb 2024)
+- **Business Idea Competition (2023)** — Third place among inter-university teams.  
+- **Machine Learning Specialization** – DeepLearning.AI (Andrew Ng)
 
 ---
 
@@ -101,8 +96,8 @@ Computer Science student at **Namal University (2023–2027)** specializing in *
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehrrbano&color=00FFC6&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=shehrrbano&color=00FF9D&style=for-the-badge&label=Profile+Views" />
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D0D0D&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=120&section=footer" width="100%">
