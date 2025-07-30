@@ -95,4 +95,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shehrrbano&color=00FF9D&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/shehrrbano?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/shehrrbano?label=Stars&style=social" />
 </p>
