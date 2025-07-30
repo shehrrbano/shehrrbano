@@ -1,117 +1,121 @@
-<h1 align="center">Shehr Bano</h1>
-<h3 align="center">MERN Stack Developer | Blockchain & ML Enthusiast | Hardware-Software Integrator</h3>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A00FF,100:FF0099&height=200&section=header&text=Shehr%20Bano&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%">
+
+<h3 align="center">MERN Stack Developer | Machine Learning & MLOps | Hardware-Software Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Building+Modern+Full-Stack+Apps;Exploring+Blockchain+%26+ML+Pipelines;Engineering+Hardware-Software+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F6C915&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development+%7C+Blockchain+%7C+Hardware-Software+Integration;Machine+Learning+Pipelines+and+MLOps+Engineering;Exploring+FPGA%2C+Kernel+Development+%26+RISC-V+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shehrbano2005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/banooxv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://medium.com/@shehrrbano"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="mailto:sshehrrbano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/shehrbano2005"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@shehrrbano"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:sshehrrbano@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shehrrbano"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ## About Me  
 
-I am a **Computer Science student** passionate about blending **software engineering, hardware systems, and AI/ML** to build impactful technologies. I have experience in **MERN stack development**, **machine learning pipelines**, and **RISC-V based computer architecture projects**.  
+Proactive Computer Science student at **Namal University (2023–2027)** with a strong foundation in **software development, embedded systems, assembly language, and computer architecture**. I specialize in building **scalable MERN stack applications**, **end-to-end ML pipelines**, and **RISC-V hardware projects**.  
 
-- **Current Focus:** Exploring FPGA & Linux kernel development, improving MLOps pipelines, and working on hardware-software integrated systems.  
-- **Collaboration Interests:** Open-source projects in full-stack web apps, embedded systems, and ML/AI research.  
-- **Key Areas:** MERN Stack, RISC-V Architecture, MLOps, Blockchain, Assembly Language Programming.  
+- Conducted ML research on **air quality prediction (ICEPECC-2025)** using PySpark, MLflow, and XGBoost.  
+- Designed a **Self-Healing Microkernel OS** and **5-stage pipelined RISC-V processor**.  
+- Active in **technical leadership** as Campus Ambassador at Arbisoft and Campus Director at the Millennium Fellowship (UNAI & MCN).  
+- Passionate about **MLOps, FPGA, Linux kernel development, and blockchain**.  
 
 ---
 
 ## Research & Publications  
 
-- **Air Quality Index Prediction in Gujrat: A Comparative Study Using Machine Learning Models** *(ICEPECC-2025)*  
-  Implemented and compared ML models for air quality prediction, improving environmental data-driven monitoring.
-
----
-
-## 🛠Technical Skills  
-
-<details>
-  <summary>Click to expand Tech Stack</summary>
-  <p align="left">
-    <strong>Languages:</strong><br>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <br>
-    <strong>Frameworks & Tools:</strong><br>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <br>
-    <strong>Databases:</strong><br>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <br>
-    <strong>Other Tools:</strong><br>
-    Git, Jenkins, Figma, Canva, Pandas, Assembly Language, Verilog
-  </p>
-</details>
-
----
-
-## GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehrrbano&show_icons=true&count_private=true&hide=prs&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrrbano&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehrrbano&theme=radical" width="96%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shehrrbano&theme=radical&column=7&margin-w=15&margin-h=15" />
-</p>
+- **Air Quality Index Prediction in Gujrat: A Comparative Study Using Machine Learning Models** – Co-Author *(ICEPECC-2025)*  
+  Implemented multiple ML models with PySpark and XGBoost, achieving improved AQI forecasting.  
 
 ---
 
 ## Featured Projects  
 
+- **InBot** – Job application automation tool using Selenium, Gmail SMTP, Clearbit API.  
+- **House Price Prediction** – MLOps pipeline using Airflow, PySpark, MLFlow, FastAPI, Docker, Prometheus.  
+- **Self-Healing OS (RISC-V)** – Fault-tolerant microkernel OS with custom drivers (QEMU + Spike).  
+- **RISC-V Processor** – Complete RV32I pipeline with a web-based simulation environment (Flask + Verilog).  
+- **CloakBrowse** – Browser extension for tracker obfuscation.  
+- **Syncera** – Peer-to-peer skill exchange platform (MERN stack).  
+- **SustainX** – SQL database project tracking Sustainable Development Goals.  
+- **Leximo** – C++ English learning application with data structures.  
+- **Real-Time Chat Application** – Full-stack MERN app with authentication & socket messaging.  
+
 <p align="center">
-  <a href="https://github.com/shehrrbano/InBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehrrbano&repo=InBot&theme=radical" />
-  </a>
-  <a href="https://github.com/shehrrbano/House-Price-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehrrbano&repo=House-Price-Prediction&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/shehrrbano/Self-Healing-OS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehrrbano&repo=Self-Healing-OS&theme=radical" />
-  </a>
-  <a href="https://github.com/shehrrbano/Syncera">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehrrbano&repo=Syncera&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehrrbano&repo=InBot&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehrrbano&repo=House-Price-Prediction&theme=tokyonight" />
 </p>
 
 ---
 
-## Education & Leadership  
+## Skills  
 
-- **B.S. in Computer Science** - Namal University (2023–2027)  
-- **Campus Ambassador** – Arbisoft (2024–2025)  
-- **Campus Director** – Millennium Fellowship (MCN & UNAI) (2024–2025)  
+### Programming & Frameworks  
+- **Languages:** Python (Expert), C++ (Expert), JavaScript, Kotlin, C, Verilog, Assembly  
+- **Web Development:** MERN stack, Django, Express, React, Node.js  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **MLOps & AI:** PySpark, Pandas, XGBoost, MLFlow, FastAPI, Airflow, Docker  
+- **Hardware:** FPGA, RISC-V, Computer Architecture (MIPS, RV32I), QEMU/Spike Simulation  
+- **Tools:** Jenkins, Git, GitHub, Jira, Figma, Canva  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,kotlin,react,nodejs,express,django,mysql,mongodb,docker,git,verilog,linux,airflow,pytorch&perline=8" />
+</p>
+
+---
+
+## Leadership & Experience  
+
+- **Campus Ambassador – Arbisoft (2024–2025):** Led recruitment initiatives, organized technical workshops, and expanded industry-university engagement.  
+- **Campus Director – Millennium Fellowship (UNAI & MCN) (2024–2025):** Mentored student fellows and developed the *EmpowerHer* mobile app for social impact.  
+- **Tech Community Builder:** Organized workshops and technical events under computing societies at Namal University.  
+
+---
+
+## Awards & Certifications  
+
+- **IEEE Hosting Competition Winner (2025)** – First place, PKR 5,000 prize.  
+- **DATAFEST 24 International Symposium – Namal University (2024):** Hosted international event.  
+- **Business Idea Competition (2023):** Third place among inter-university teams.  
+- **HPC Spring School – Namal University (2024):** Intensive program on supercomputing.  
+- **Machine Learning Specialization – DeepLearning.AI (Andrew Ng)**.  
+
+---
+
+## GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehrrbano&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehrrbano&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehrrbano&theme=react-dark" width="96%"/>
+</p>
+
+---
+
+## Education  
+
+- **B.S. Computer Science** – Namal University (2023–2027)  
+- **F.Sc Computer Science** – Sir Syed Campus, Rawalpindi (A+)  
+- **Matric Computer Science** – Sir Syed Campus, Rawalpindi (A+)  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehrrbano&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=shehrrbano&color=FF0099&style=for-the-badge&label=Profile+Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shehrrbano?tab=followers">
-    <img src="https://img.shields.io/github/followers/shehrrbano?style=social&label=Follow" />
-  </a>
-  &nbsp;<a href="https://github.com/shehrrbano?tab=stars">
-     <img src="https://img.shields.io/github/stars/shehrrbano?style=social&label=Stars" />
-  </a>
+  <a href="https://github.com/shehrrbano?tab=followers"><img src="https://img.shields.io/github/followers/shehrrbano?style=flat&logo=github" /></a>
+  <a href="https://github.com/shehrrbano?tab=stars"><img src="https://img.shields.io/github/stars/shehrrbano?style=flat&logo=github" /></a>
 </p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0099,100:5A00FF&height=120&section=footer" width="100%">
