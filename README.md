@@ -1,8 +1,4 @@
 <h1 align="center">Shehr Bano</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=3&section=header" width="260" alt="">
-</p>
-
 <h3 align="center">MERN Stack Developer | Machine Learning & MLOps | Hardware-Software Systems</h3>
 
 <p align="center">
